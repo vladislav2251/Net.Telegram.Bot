@@ -21,3 +21,4 @@
 /Users/massivecock2008/Documents/code/bot_test/obj/Debug/net10.0/bot_test.pdb
 /Users/massivecock2008/Documents/code/bot_test/obj/Debug/net10.0/bot_test.genruntimeconfig.cache
 /Users/massivecock2008/Documents/code/bot_test/obj/Debug/net10.0/ref/bot_test.dll
+/Users/massivecock2008/Documents/code/bot_test/obj/Debug/net10.0/bot_test.sourcelink.json
